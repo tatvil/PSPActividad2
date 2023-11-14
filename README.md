@@ -1,5 +1,5 @@
 # PSPActividad2
-Requerimiento 1
+## Requerimiento 1
 
 Se pide hacer un servicio REST, dicho servicio gestionará una serie de Libros.
 
@@ -9,33 +9,33 @@ El servicio REST proporcionará un servicio CRUD completo, y podrá ser consumid
 
 Además, se pide a través de Postman realizar las siguientes tareas y apreciar los resultados:
 
-    Dar de alta un libro
-    Dar de baja un libro por ID
-    Modificar un libro por ID
-    Obtener un libro por ID
-    Listar todos los libros
+1. Dar de alta un libro
+2. Dar de baja un libro por ID
+3. Modificar un libro por ID
+4. Obtener un libro por ID
+5. Listar todos los libros
 
 Es importante entender el funcionamiento del cliente Postman, como puede ser entender las URLs de acceso a los diferentes puntos de acceso de nuestro servicio REST, los verbos y métodos HTTP que tenemos emplear para cada una de las peticiones, así como en que parte del mensaje HTTP viaja la información.
 
-Requerimiento 2
+## Requerimiento 2
 
 Se pide que no pueda haber dos libros con ID o título repetido
 
-Requerimiento 3
+## Requerimiento 3
 
 Se pide crear una aplicación java que sea capaz de trabajar con el servidor REST. La aplicación mostrara un menú que sea capaz de realizar todas las operaciones del servidor, como puede ser:
 
-    Dar de alta un libro
-    Dar de baja un libro por ID
-    Modificar un libro por ID
-    Obtener un libro por ID
-    Listar todos los libros
-    Salir
+1. Dar de alta un libro
+2. Dar de baja un libro por ID
+3. Modificar un libro por ID
+4. Obtener un libro por ID
+5. Listar todos los libros
+6.  Salir
 
 Para cada opción, se tendrá que pedir los datos necesarios al usuario y/o mostrar los resultados pertinentes. La aplicación se ejecutará hasta que se pulse la opción de “salir”.
 
  
-Consideraciones
+## Consideraciones
 
 Para toda la actividad se valorará la claridad de código, la modularidad, la eficiencia de los algoritmos empleados y comentarios explicativos sobre los puntos clave de la aplicación (JavaDoc o normales, lo que se consideré más apropiado).
 
